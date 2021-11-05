@@ -82,9 +82,6 @@ async function run() {
     // })
 
 
-    app.get('/hellow', (req, res) => {
-      res.send('hello world')
-    })
 
   }
   finally {
